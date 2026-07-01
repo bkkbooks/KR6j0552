@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0552/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說施餓鬼甘露味大陀羅尼經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1321.xml
+    old_id: T21n1321
+hash: sha256:04021e0020e8517515816252e139a482f08ade104ff592a8f124200d915e520e

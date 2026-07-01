@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6j0552/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0552/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說施餓鬼甘露味大陀羅尼經
+  identifiers:
+    krp: KR6j0552
+    cbeta: T21n1321
+    cbeta_old_id: T21n1321
+    authorityid: CA0003020
+    json_key: T1321
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1321.xml
+    old_id: T21n1321
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0552_000-T.yaml, hash: 'sha256:04021e0020e8517515816252e139a482f08ade104ff592a8f124200d915e520e'}
+  - {seq: 1, filename: KR6j0552_001-T.yaml, hash: 'sha256:924d1bef76a2bdc35cd951cbbe255af116d950a59bb63ecdeda5ad9dab7d3991'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0552_000-T.markers.yaml, hash: 'sha256:54a48418c3e39b25460c671f346c867172255ac56396810bc2b7586db84c6002'}
+  - {seq: 1, role: markers, filename: assets/KR6j0552_001-T.markers.yaml, hash: 'sha256:6208aa90d3fa2e1efb013575e4438abcf3a0b3a21c8ed5723abc64896421c011'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0552_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 6003
+  label: 佛說施餓鬼甘露味大陀羅尼經
+  type: juan
+  level: 1
+hash: sha256:df4105aa1d47a6d9e2965bffd57ad065808dd9306ce8190100cb81f4c63c2f68
