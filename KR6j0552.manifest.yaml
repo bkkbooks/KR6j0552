@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0552_000.yaml, hash: 'sha256:04021e0020e8517515816252e139a482f08ade104ff592a8f124200d915e520e'}
-  - {seq: 1, filename: KR6j0552_001.yaml, hash: 'sha256:144503542b3a727d3c861fd98ec77547464d3c3cccefbb4888df86e5c42eb445'}
+  - {seq: 1, filename: KR6j0552_001.yaml, hash: 'sha256:924d1bef76a2bdc35cd951cbbe255af116d950a59bb63ecdeda5ad9dab7d3991'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0552_001.markers.yaml, hash: 'sha256:fed5e40ef9b031687c64618fa686be2aeb5b41aeedf3dfb45cc23097d2f6c4ed'}
+  - {seq: 0, role: markers, filename: assets/KR6j0552_000.markers.yaml, hash: 'sha256:6ca41a5a1f9cd65e23a4701b3489af70a7fc09124eb21e75ed6fcbda90da31db'}
+  - {seq: 1, role: markers, filename: assets/KR6j0552_001.markers.yaml, hash: 'sha256:74f46b1a154d2f144f376e52c6d11fffed3e25c3ef7efa823a01b021e77697f7'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 佛說施餓鬼甘露味大陀羅尼經
   type: juan
   level: 1
-hash: sha256:4dbca90ac5ae088d76eb796798745f6fb315ad99c2e762dccf8f1885ce7d58f5
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:42a8badffffa19dfc38b5701c232d767c01d1996f71b2f3966eb48d78033f9cc
