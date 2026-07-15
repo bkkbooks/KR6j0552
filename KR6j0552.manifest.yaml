@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0552/v1
 canonical_location: https://kanripo.org/bkk/KR6j0552/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛說施餓鬼甘露味大陀羅尼經
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0552_000.yaml, hash: 'sha256:04021e0020e8517515816252e139a482f08ade104ff592a8f124200d915e520e'}
-  - {seq: 1, filename: KR6j0552_001.yaml, hash: 'sha256:924d1bef76a2bdc35cd951cbbe255af116d950a59bb63ecdeda5ad9dab7d3991'}
+  - {seq: 1, filename: KR6j0552_001.yaml, hash: 'sha256:db43af56b0ef141054f56b93540141bc81d737b5dc221df7fb86731d74acd999'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0552_000.markers.yaml, hash: 'sha256:6ca41a5a1f9cd65e23a4701b3489af70a7fc09124eb21e75ed6fcbda90da31db'}
-  - {seq: 1, role: markers, filename: assets/KR6j0552_001.markers.yaml, hash: 'sha256:74f46b1a154d2f144f376e52c6d11fffed3e25c3ef7efa823a01b021e77697f7'}
+  - {seq: 1, role: markers, filename: assets/KR6j0552_001.markers.yaml, hash: 'sha256:a64a4f6547ff42a6299782cf1396543d5cfa6929a9c8ed9e587d39cd8bab719e'}
 table_of_contents:
 - ref:
     seq: 1
@@ -37,4 +37,7 @@ table_of_contents:
   label: 佛說施餓鬼甘露味大陀羅尼經
   type: juan
   level: 1
-hash: sha256:42a8badffffa19dfc38b5701c232d767c01d1996f71b2f3966eb48d78033f9cc
+hash: sha256:e9310974ee097b9a3ca739a3392f41a6df9d5caccc61f429e8177586d3b6ead5
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
